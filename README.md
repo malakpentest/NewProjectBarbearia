@@ -25,4 +25,4 @@ o mesmo te contrata para fazer um programa de Celular.
 
 fiz algumas coisas me ajuda a automatizar, colocando um laço de verdadeiro e falso para saber se o horario esta disponivel. e me explica como vcs fez passo a passo.
 
-Desde de ja agradeço a todos os involvidos.
+Desde de ja agradeço a todos os envolvidos.
