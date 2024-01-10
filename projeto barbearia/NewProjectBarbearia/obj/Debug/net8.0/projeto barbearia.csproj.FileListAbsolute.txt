@@ -1,0 +1,14 @@
+C:\Users\ma'lak\dev\projeto barbearia\bin\Debug\net8.0\projeto barbearia.exe
+C:\Users\ma'lak\dev\projeto barbearia\bin\Debug\net8.0\projeto barbearia.deps.json
+C:\Users\ma'lak\dev\projeto barbearia\bin\Debug\net8.0\projeto barbearia.runtimeconfig.json
+C:\Users\ma'lak\dev\projeto barbearia\bin\Debug\net8.0\projeto barbearia.dll
+C:\Users\ma'lak\dev\projeto barbearia\bin\Debug\net8.0\projeto barbearia.pdb
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.AssemblyInfoInputs.cache
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.AssemblyInfo.cs
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.csproj.CoreCompileInputs.cache
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.dll
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\refint\projeto barbearia.dll
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.pdb
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\projeto barbearia.genruntimeconfig.cache
+C:\Users\ma'lak\dev\projeto barbearia\obj\Debug\net8.0\ref\projeto barbearia.dll
