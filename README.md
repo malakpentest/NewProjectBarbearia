@@ -14,6 +14,8 @@ o mesmo te contrata para fazer um programa de Celular.
 
 ### Pedido do seu Cliente:
 
+- Login
+- Senha
 - Nome e sobrenome do Cliente.
 - Numero de Celular.
 - Horas para agendamento.
